@@ -1,0 +1,22 @@
+{
+  "name": "dji-tello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgiobairog/dji-tello.git"
+  },
+  "author": "Jason Wilson <jason@wilsons.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sgiobairog/dji-tello/issues"
+  },
+  "homepage": "https://github.com/sgiobairog/dji-tello#readme",
+  "dependencies": {
+    "lerna": "^3.13.4"
+  }
+}
